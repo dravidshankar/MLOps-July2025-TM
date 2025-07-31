@@ -1,1 +1,8 @@
 
+# With pipenv create a new virtual environment.
+
+pipenv install scikit-learn flask pandas flask --python=3.9
+
+
+# Activate the environment.
+pipenv shell
