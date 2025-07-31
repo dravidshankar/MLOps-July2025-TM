@@ -1,4 +1,6 @@
 
+Run the following commands in the terminal
+
 # With pipenv create a new virtual environment.
 
 pipenv install scikit-learn flask pandas flask --python=3.9
